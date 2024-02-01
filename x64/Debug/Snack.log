@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\AA_Bi_Ye_Lunwen\Snack\main.cpp(198,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Snack.vcxproj -> D:\AA_Bi_Ye_Lunwen\Snack\x64\Debug\Snack.exe
